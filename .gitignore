@@ -1,0 +1,9 @@
+# Ignorer les dossiers système
+/AppData/
+/Downloads/
+/OneDrive/
+*.log
+*.ini
+*.pdf
+*.eml
+*.ipynb
